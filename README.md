@@ -21,9 +21,12 @@ Once you have installed the node modules you need, simply open the index in your
 
 Here is a link to a video walkthrough of the app in use:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+[![Watch the Video](./assets/logoApp.png)](https://drive.google.com/file/d/1vI6qNNqooiippY42xl6bV07t9MIBRvd6/view)
+
+Here is an example of another logo created with the app:
+
+![A turquoise circle with brown text in the center that reads RBF](./assets/logoExample.png)
+
 
 ## Credits
 
