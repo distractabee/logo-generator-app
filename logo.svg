@@ -2,10 +2,10 @@
     width="300" height="300"
     xmlns="http://www.w3.org/2000/svg">
 
- <circle cx="150" cy="150" r="150" fill="#30d5c8" />
+ <polygon points= "150,20 300,300 20,300" fill="black" />
 
 
 
- <text x="150" y="175" font-size="100" text-anchor="middle" fill="#cd853f">RBF</text>
+ <text x="150" y="175" font-size="100" text-anchor="middle" fill="red">CBC</text>
 
 </svg>
