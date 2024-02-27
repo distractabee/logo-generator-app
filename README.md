@@ -21,7 +21,7 @@ Once you have installed the node modules you need, simply open the index in your
 
 Here is a link to a video walkthrough of the app in use:
 
-[![Watch the Video](./assets/logoApp.png)](https://drive.google.com/file/d/1vI6qNNqooiippY42xl6bV07t9MIBRvd6/view)
+[![Watch the Video](./assets/logoApp.png)](https://drive.google.com/file/d/1-f5y9n_eZv6doTtkllnjIdDwgZj5Iluy/view?usp=drive_link)
 
 Here is an example of another logo created with the app:
 
